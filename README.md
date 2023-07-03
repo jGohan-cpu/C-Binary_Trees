@@ -1,6 +1,6 @@
 # C-Binary_Trees
 
-![C-Binary_Trees](https://github.com/jGohan-cpu/C-Binary_Trees/blob/master/binary_trees.png)
+!C-Binary_Trees
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository aims to provide simple yet efficient implementations of binary t
 
 The following binary tree implementations are currently included in this repository:
 
-1. [Binary Search Tree](binary_search_tree.c): A binary tree structure designed for efficient searching of elements, where the left child node is less than the parent node, and the right child node is greater than the parent node.
+1. Binary Search Tree: A binary tree structure designed for efficient searching of elements, where the left child node is less than the parent node, and the right child node is greater than the parent node.
 
-2. [AVL Tree](avl_tree.c): A self-balancing binary search tree that ensures the tree remains balanced, providing efficient search, insertion, and deletion operations.
+2. AVL Tree: A self-balancing binary search tree that ensures the tree remains balanced, providing efficient search, insertion, and deletion operations.
 
-3. [Binary Heap](binary_heap.c): A complete binary tree that satisfies the heap property, where the parent node is always greater (or smaller) than its children. It is commonly used to implement priority queues.
+3. Binary Heap: A complete binary tree that satisfies the heap property, where the parent node is always greater (or smaller) than its children. It is commonly used to implement priority queues.
 
-4. [Trie](trie.c): A tree-like data structure used for efficient retrieval of keys. It is primarily used for storing and searching strings.
+4. Trie: A tree-like data structure used for efficient retrieval of keys. It is primarily used for storing and searching strings.
 
 Each implementation comes with clear explanations of the data structure's logic and algorithms.
 
